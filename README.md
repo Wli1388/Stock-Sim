@@ -1,7 +1,7 @@
 # Stock-Sim
 Second Major CS Project/Game 
 A Non-Realistic Virtual Stock Market Game. Think of this as a very basic tutorial to trading in the stock market fit for elementary schoolers.
-
+===============================================================================================================================================
 Version 1.0
 
 ## Instructions
